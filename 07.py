@@ -20,3 +20,6 @@ print(np.dot(A, B))
 
 print("\n Element-wise Multiplication:")
 print(A * B)
+
+
+
